@@ -1,0 +1,27 @@
+{
+  "name": "coding-world",
+  "version": "1.0.0",
+  "description": "做一些有意义的事情",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coding-worlds/coding-world.git"
+  },
+  "author": "coding-wrolds",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coding-worlds/coding-world/issues"
+  },
+  "homepage": "https://github.com/coding-worlds/coding-world#readme",
+  "devDependencies": {
+    "vuepress": "^1.5.4"
+  },
+  "dependencies": {}
+}
